@@ -55,6 +55,8 @@ Changes should always include tests. If this is a bug fix it is a good idea to a
 first commit of the pull request and the changes to fix the issue in subsequent commits to make it
 easier to validate it.
 
+Tests can be validated locally using `pytest`
+
 ## Pull requests
 
 ### Linting your code
